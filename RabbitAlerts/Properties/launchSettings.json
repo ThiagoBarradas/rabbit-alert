@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "RabbitAlerts": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "rabbit_virtual_host": "/",
+        "rabbit_queue": "test-queue",
+        "pushover_user": "xpto",
+        "rabbit_host": "http://localhost:15672",
+        "min": "1",
+        "max": "10",
+        "rabbit_pass": "guest",
+        "pushover_token": "xpto",
+        "slack_url": "xpto",
+        "rabbit_user": "guest"
+      }
+    }
+  }
+}
