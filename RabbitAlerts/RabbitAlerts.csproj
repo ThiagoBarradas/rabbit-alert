@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="RestSharp" Version="106.6.9" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="Stone.RabbitMQ.Abstraction" Version="1.7.6-rc1" />
   </ItemGroup>
 
